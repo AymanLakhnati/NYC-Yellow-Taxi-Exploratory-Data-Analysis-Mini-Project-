@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+*.log
+*.sqlite
+*.db
+
+# Data files
+*.parquet
+
+# VS Code
+.vscode/
