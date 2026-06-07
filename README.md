@@ -1,0 +1,2 @@
+# NYC-Yellow-Taxi-Exploratory-Data-Analysis-Mini-Project-
+Analysis of 1.3M NYC taxi trips (Jan 2023) to uncover demand patterns, pricing anomalies, and driver revenue drivers. Key findings 1. Evening rush (5–8pm) drives 28% of daily demand but median speed drops to 8mph on Fridays 2. Cash riders appear to tip 0% in data 3. ~4% of trips are JFK airport flat-rate fares and should be modelled separately
